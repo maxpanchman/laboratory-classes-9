@@ -1,21 +1,30 @@
 {
-  "name": "laboratory-classes-9",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "nodemon": "^3.1.10"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "mongoose": "^8.15.1"
-  }
+    "name": "laboratory-classes-9",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0",
+        "mongoose": "^8.15.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maxpanchman/laboratory-classes-9.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/maxpanchman/laboratory-classes-9/issues"
+    },
+    "homepage": "https://github.com/maxpanchman/laboratory-classes-9#readme",
+    "description": ""
 }
